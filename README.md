@@ -5,4 +5,4 @@ Respositorio Landing Page portafolio tipo CV
 
 ## Proyectos
 
-[Landing Pages de tipo Portafolio CV](https://mauea22.github.io/portafolio-mauroallena)
+[Landing Pages de tipo Portafolio CV](https://mauea22.github.io/repositorio-portafolio/portafolio-mauroallena)
