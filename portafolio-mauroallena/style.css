@@ -44,6 +44,10 @@ body{
     color: var(--text-color);
 }
 
+footer a{
+    color:var(--white-color);
+}
+
 a{
     color: var(--third-color);
     transition: all 0.5s ease-out;
